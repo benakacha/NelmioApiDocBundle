@@ -44,7 +44,7 @@ Then, run the test suite using
 Credits
 -------
 
-The design is heavily inspired by the
+The design is heavily inspired by the.
 [swagger-ui](https://github.com/wordnik/swagger-ui) project.
 Some icons from the [Glyphicons](http://glyphicons.com/) library are used to
 render the documentation.
